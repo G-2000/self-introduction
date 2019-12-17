@@ -1,16 +1,15 @@
 ## 自我介绍
-- 我是网新2班的**徐旖芊
+- 我是网新2班的徐旖芊
 - 性格慢热，话少
 - 做过最久的事是连续打卡45日
 
 ## 已点技能树
 ### markdown语法
-### 网页设计：
-      [个人网站](https://kg2000.gitee.io/)
+### 网页设计
 ### python
     已经完成：
       1.购物车
-      2.选字网页：[Pythonanywhere上的Search4Letters网站](http://groundnuttt.pythonanywhere.com/)
+      2.选字网页
       3.选色网页
       4.与MySql连接
 ### 摄影/绘画/码字:
@@ -21,6 +20,10 @@
 - 3年美术基础，审美能力还可
 - 永远都留有PlanB
 - 合作积极，希望你也是:laughing:
+
+## 作品
+- [个人网站](https://kg2000.gitee.io/)
+- [Pythonanywhere上的Search4Letters网站](http://groundnuttt.pythonanywhere.com/)
 
 ## 联系方式
 - 微信：18928159397
